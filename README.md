@@ -1,0 +1,2 @@
+# SmartBin
+Projet PLBD interface
